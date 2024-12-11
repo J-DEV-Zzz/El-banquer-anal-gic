@@ -1,0 +1,14 @@
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\bin\Debug\net8.0\El banquer analògic.exe
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\bin\Debug\net8.0\El banquer analògic.deps.json
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\bin\Debug\net8.0\El banquer analògic.runtimeconfig.json
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\bin\Debug\net8.0\El banquer analògic.dll
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\bin\Debug\net8.0\El banquer analògic.pdb
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.AssemblyInfoInputs.cache
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.AssemblyInfo.cs
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.csproj.CoreCompileInputs.cache
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.dll
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\refint\El banquer analògic.dll
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.pdb
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\El banquer analògic.genruntimeconfig.cache
+C:\Users\Joel\RiderProjects\El banquer analògic\El banquer analògic\obj\Debug\net8.0\ref\El banquer analògic.dll
